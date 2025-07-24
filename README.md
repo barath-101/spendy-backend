@@ -1,1 +1,5 @@
-"# spendy-backend" 
+Spendy is a web application used for calculating the expenses of the user , and for their planning on budgets on various occasions , according to their needs , and I have built a simple backend using SpringBoot and Java , though the project is not that new in the field of software development and Engineering projects , to understand how projects and software appications are written in Java , i thought a Personal Expense tracker app would be a great start , and yes it really was helpful in understanding the connection from the database to the backend logic , and testing the APi endpoints like POST , GET ... helps in the core understanding of the functionalitites included in web applications ..
+
+Pretty soon , the frontend update of the project will be updated , and pretty curious to see the outcome of the completed version before the deployement .... as this is my first mainstream project including Java , SpringBoot , PostgreSQl and Frontend technologies like HTML , CSS , Javascript.
+
+Project on progress...
